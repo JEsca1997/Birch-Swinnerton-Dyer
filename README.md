@@ -1,7 +1,7 @@
 # Birch–Swinnerton-Dyer Conjecture — Proof for All Analytic Ranks
 
 **Author:** Joseph Robert Escamilla
-**Status:** Complete — 100% Proved (all analytic ranks)
+**Status:** Preprint — complete manuscript, not yet formally peer-reviewed
 **Patent:** US 11,954,561 B2 (Reissue Pending)
 **Repository:** https://github.com/JEsca1997/Birch-Swinnerton-Dyer
 
@@ -37,7 +37,7 @@ consequence of the Iwasawa structure.
 
 | File | Description |
 |---|---|
-| `BSD.pdf` | Canonical referee-closed proof (complete, all ranks) |
+| `BSD.pdf` | Complete preprint manuscript (all analytic ranks) |
 
 ## OFI Framework
 
